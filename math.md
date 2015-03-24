@@ -31,3 +31,5 @@ Efter varje uppgift ska ni *commita* lösningen.
 
 
 Lycka till.
+
+tjäääna grabbar välkommen till café bärs
